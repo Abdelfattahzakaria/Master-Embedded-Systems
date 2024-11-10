@@ -1,0 +1,67 @@
+/*******************************************************************************************************************
+ 
+                                                Git Commands SUMMARY
+ 
+*********************************************************************************************************************
+ 
+ * git init                                --------->> adjust you working directory in which you store you project files and
+                                                      write this command to initialize a repo in this wd to add git file 
+                                                      include info about your files to mointor the differrent changes which
+                                                      will be occured on these files. 
+  
+ * git config core.bare true              --------->> give you the ability to push changes/modifies to these repo in the 
+                                                      future. 
+
+ * git clone https://github.com/<user_name>/<repo_name>.git
+       - repplace <user_name> with your githup profile name 
+       - replace <reeponame> with your repo namr
+                                         --------->> this command pull or extract the githup repo into you wd.
+
+ * git status                            --------->> get info about the repo , files changes/updates , branches , ...
+
+ * gitk                                  --------->> open frindly GUI to interact with it to get info about the 
+                                                     changes/modifies like its time , owners also provide the ability
+                                                     uncommit these changes/modifies.
+  
+ * git log                               --------->> same as gitk but it provide the info in the cmd screeen. 
+
+ * git pull                              --------->> pull/extract the latest changes/modifies into you wd. 
+
+ * git coonfig --global user.email "<user_email>"
+      - replace <user_email> with you email
+                                         --------->> add your email to be related to your changes/modifies which you 
+                                                     can do.
+
+ * git coonfig --global user.name "<user_name>"
+      - replace <user_email> with you name
+                                         --------->> the same as.. add your name. 
+
+ * git add file.txt                      --------->> indexing this file to extract info about it and put it into the 
+                                                     file.git to monitor changes/updates which can be happened on it.
+   git add .                             --------->> the same as but here add all the files/folders within the wd.
+     **important Note**: empty files , folders will not be pushed into the rempo hosting storage "will not be recored" 
+
+
+ * git commit -m "<user_commit>" 
+       - replace <user_commit> with your commit name 
+                                          --------->> marking a commit point which we can return to it again if we want 
+                                                      to igonre the modifies/updates/changes. 
+
+ * git stash                              --------->> uncommit changes/commits. 
+
+ * git push                               --------->> upload the main branche  to hosting sttorage which will extract the 
+                                                       difference between it and latest stored version to get 
+                                                       the new version to store it.
+   git push == git push origin == git push origin main             
+      
+ * git push origin branche_name          --------->> the same as.. but within the current branche you are init. 
+
+ * git checkout -b branche_name          --------->> make a new branche from your current branche. 
+ * git checkout -d branchename           --------->> delete a branche. 
+ * git checkout main                     --------->> return to the main branche. 
+ * git push origin branche_name          --------->> push changes/updates into specific branche. 
+
+ * git diff src_branche dest_brannche    --------->> get the differrence among two branches. 
+
+ * git merage branche_name               --------->> required to be at the main branche to merge between it and specific
+                                                     branche.   
