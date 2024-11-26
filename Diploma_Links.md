@@ -1,7 +1,7 @@
 # Diploma Links
 
 Due to my repo size and Git problems with large size, I split my repo into several repos.  
-Please kindly navigate to your target repo link.
+Please kindly navigate to your target repo link , Heve Fun!.
 
 ---
 
