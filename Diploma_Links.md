@@ -26,6 +26,8 @@ Please kindly navigate to your target repo link.
   [Master-Embedded-Systems-Assignment-Embedded-C](https://github.com/Abdelfattahzakaria/Master-Embedded-Systems-Assignment-Embedded-C)
 - **Assignment-System-Architect**:  
   [Master-Embedded-Systems-Assignment-System-Architect](https://github.com/Abdelfattahzakaria/Master-Embedded-Systems-Assignment-System-Architect)
+- **Public Accessible Assignment Google Drive Link**:  
+  [Google Drive Link](https://drive.google.com/drive/folders/1VJ3fNugiKZmyV7Mjjbs9WEK6IbX2qdA7?usp=sharing)
 
 ---
 
@@ -35,6 +37,8 @@ Please kindly navigate to your target repo link.
   [Master-Embedded-Systems-Quiz-C](https://github.com/Abdelfattahzakaria/Master-Embedded-Systems-Quiz-C)
 - **Quiz-Embedded-C**:  
   [Master-Embedded-Systems-Quiz-Embedded-C](https://github.com/Abdelfattahzakaria/Master-Embedded-Systems-Quiz-Embedded-C)
+- **Public Accessible Quiz Google Drive Link**:  
+  [Google Drive Link](https://drive.google.com/drive/folders/1sx5Og0t-ha48jF6vv18CysTB8MdxBr8x?usp=sharing)
 
 ---
 
@@ -42,6 +46,8 @@ Please kindly navigate to your target repo link.
 
 - **Exam-First-Midterm**:  
   [Master-Embedded-Systems-Exam-First-Midterm](https://github.com/Abdelfattahzakaria/Master-Embedded-Systems-Exam-First-Midterm)
+- **Public Accessible Exam Google Drive Link**:  
+  [Google Drive Link](https://drive.google.com/drive/folders/1PFgZC_BdeU9qKQfqoQ0x_sOLA3bpEF__?usp=sharing)
 
 ---
 
@@ -49,3 +55,5 @@ Please kindly navigate to your target repo link.
 
 - **Project-First-Term**:  
   [Master-Embedded-Systems-Project-First-Term](https://github.com/Abdelfattahzakaria/Master-Embedded-Systems-Project-First-Term)
+- **Public Accessible Project Google Drive Link**:  
+  [Google Drive Link](https://drive.google.com/drive/u/1/folders/1jirOFZ6uDA_o0vVhEPcNX7_VUyWUrat8)
