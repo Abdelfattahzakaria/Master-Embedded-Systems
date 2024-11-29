@@ -1,7 +1,7 @@
 # Diploma Links
 
 Due to my repo size and Git problems with large size, I split my repo into several repos.  
-Please kindly navigate to your target repo link , Have Fun!.
+Please kindly navigate to your target repo link.
 
 ---
 
@@ -26,6 +26,8 @@ Please kindly navigate to your target repo link , Have Fun!.
   [Master-Embedded-Systems-Assignment-Embedded-C](https://github.com/Abdelfattahzakaria/Master-Embedded-Systems-Assignment-Embedded-C)
 - **Assignment-System-Architect**:  
   [Master-Embedded-Systems-Assignment-System-Architect](https://github.com/Abdelfattahzakaria/Master-Embedded-Systems-Assignment-System-Architect)
+- **Assignment-Microcontroller-Fundamentals**:  
+  [Master-Embedded-Systems-Assignment-MC-Arch](https://github.com/Abdelfattahzakaria/Master-Embedded-Systems-Assignment-MC-Arch)
 - **Public Accessible Assignment Google Drive Link**:  
   [Google Drive Link](https://drive.google.com/drive/folders/1VJ3fNugiKZmyV7Mjjbs9WEK6IbX2qdA7?usp=sharing)
 
