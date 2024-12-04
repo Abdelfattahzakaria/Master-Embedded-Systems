@@ -13,7 +13,7 @@ Please kindly navigate to your target repo link.
   [Master-Embedded-Systems-Content-C](https://github.com/Abdelfattahzakaria/Master-Embedded-Systems-Content-C)
 - **Content-Embedded-C**:  
   [Master-Embedded-Systems-Content-Embedded-C](https://github.com/Abdelfattahzakaria/Master-Embedded-Systems-Content-Embedded-C)
-- **Content-Embedded-System-Architect**:  
+- **Content-System-Architect**:  
   [Master-Embedded-Systems-Content-System-Architect](https://github.com/Abdelfattahzakaria/Master-Embedded-Systems-Content-System-Architect)
 - **Content-Microcontroller-Fundamentals**:  
   [Master-Embedded-Systems-Content-SMicrocontroller-Fundamentals](https://github.com/Abdelfattahzakaria/Master-Embedded-Systems-Content-Microcontroller-Fundamentals)
